@@ -1,4 +1,6 @@
 # REST API Project with Django Rest Framework
+![API-101-What-Is-a-REST-API-scaled](https://github.com/vipulghadi/API-request-using-DRF/assets/99540970/2620903b-9bc1-4b57-a485-900fd9d5478a)
+
 
 This repository contains a REST API project built using Django Rest Framework (DRF) for the backend. The project implements CRUD operations with various serialization methods, including API views, model views, and viewsets. Additionally, a Python notebook is used for the frontend, where all methods and operations are implemented.
 
